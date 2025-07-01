@@ -5,8 +5,8 @@ repo: cemodding-wiki-uptime # The name of this repository
 sites:
   - name: Chrome Engine Modding Wiki
     url: https://www.cemodding.wiki
-  - name: Private Email
-    url: https://www.privateemail.com
+  - name: Email provider
+    url: https://mail.privateemail.com
 
 
 status-website:
