@@ -14,7 +14,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: uptime.cemodding.wiki
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://icons.duckduckgo.com/ip3/www.cemodding.wiki.ico
   name: Chrome Engine Modding Wiki
   introTitle: ""
   introMessage: 
