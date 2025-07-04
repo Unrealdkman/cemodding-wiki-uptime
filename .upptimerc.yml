@@ -9,7 +9,8 @@ sites:
     url: https://mail.privateemail.com
   - name: Pilgrimoutpost
     url: https://pilgrimoutpost.techlandgg.com
-
+  - name: Modio
+    url: https://mod.io
 
 status-website:
   cname: uptime.cemodding.wiki
