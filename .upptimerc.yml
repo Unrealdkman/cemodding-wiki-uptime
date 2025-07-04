@@ -7,6 +7,8 @@ sites:
     url: https://www.cemodding.wiki
   - name: Email provider
     url: https://mail.privateemail.com
+  - name: Pilgrimoutpost
+    url: https://pilgrimoutpost.techlandgg.com
 
 
 status-website:
